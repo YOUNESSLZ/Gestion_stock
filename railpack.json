@@ -1,7 +1,13 @@
 {
   "$schema": "https://schema.railpack.com",
-  "php": "8.2.27",
+  "php": "8.3.17",
+  "build": {
+    "commands": {
+      "install:composer": "composer install --optimize-autoloader --no-interaction"
+    }
+  },
   "variables": {
     "COMPOSER_ALLOW_SUPERUSER": "1"
   }
+
 }
