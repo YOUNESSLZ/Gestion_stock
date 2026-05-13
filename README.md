@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel + Unstyled React JSX Starter Kit
 
 ## Introduction
@@ -35,3 +36,6 @@ In order to ensure that the Laravel community is welcoming to all, please review
 ## License
 
 The Laravel + Unstyled React JSX Starter Kit is open-sourced software licensed under the MIT license.
+=======
+
+>>>>>>> 9bf903f99a5a5441936238a8f7688c788c37cf69
