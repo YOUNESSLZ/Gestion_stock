@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "apt": ["ca-certificates", "git", "unzip", "zip", "mlocate"]
+  },
+  "versions": {
+    "node": "18.19.0",
+    "php": "8.2"
+  }
+}
