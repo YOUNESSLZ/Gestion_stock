@@ -10,11 +10,4 @@ export default defineConfig({
         }),
         react(),
     ],
-    css: {
-        preprocessorOptions: {
-            scss: {
-                additionalData: `@import "bootstrap/scss/bootstrap";`
-            }
-        }
-    }
 });
